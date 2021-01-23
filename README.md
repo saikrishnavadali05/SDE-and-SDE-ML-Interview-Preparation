@@ -1,4 +1,4 @@
-# Data-Science
+# How to become a Data Scientist?
 
 #### Data Science Core Subjects 
 1.	Machine Learning
