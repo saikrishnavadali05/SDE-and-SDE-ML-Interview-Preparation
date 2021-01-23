@@ -40,4 +40,4 @@ b.	365 data science
 21.	the math behind it it's still good to supplement this information with some actual theory using Wikipedia or some math textbooks but that will give you
 
 References:
-https://www.youtube.com/watch?v=4OZip0cgOho
+- [How I Would Learn Data Science (If I Had to Start Over)](https://www.youtube.com/watch?v=4OZip0cgOho)
