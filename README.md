@@ -39,3 +39,5 @@ b.	365 data science
 20.	frankly if you can understand the source code for an algorithm you functionally understand 
 21.	the math behind it it's still good to supplement this information with some actual theory using Wikipedia or some math textbooks but that will give you
 
+References:
+https://www.youtube.com/watch?v=4OZip0cgOho
