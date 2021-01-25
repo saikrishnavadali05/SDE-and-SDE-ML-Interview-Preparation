@@ -37,7 +37,7 @@ b.	365 data science
 18.	I recommend compiling a list of all the different things you see you should go
 19.	through the source code of all these different things and try to grasp how they're constructed 
 20.	frankly if you can understand the source code for an algorithm you functionally understand 
-21.	the math behind it is still good to supplement this information with some actual theory using Wikipedia or some math textbooks but that will give you only theoretical knowledge
+21.	the math behind it is still good to supplement this information with some actual theory using Wikipedia or some math textbooks but that will give you only theoretical knowledge behind the logic actually implemented.
 
 References:
 - [How I Would Learn Data Science (If I Had to Start Over)](https://www.youtube.com/watch?v=4OZip0cgOho)
