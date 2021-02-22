@@ -2,12 +2,49 @@
 
 #### Data Science Core Subjects 
 1.	Machine Learning
+  * Supervised
+    * Classification
+    * Regression
+  * Unsupervised
+    * Clustering 
+  * Reinforcement
+  * Dimensionality Reduction
+
 2.	Deep Learning
 3.	Data Mining
 4.	Probability and Statistics
-5.	Programming in Python, R, SAS
-6.	Databases – MySQL
-7.	Big Data Analytics
+5.  Linear Algebra and Differential Calculus
+6.	Programming in Python, R, SAS, Java
+7.	Databases – MySQL
+8.	Big Data Analytics
+9.  Data Visualization
+  * Tableau
+  * Power BI
+  * Matplotlib, ggplot, seaborn
+10. Data Analysis
+  * Feature Engineering
+  * Data Wrangling
+  * Exploratory Data Analysis
+11. Deployment
+  * AWS, Azure, Flask, Django
+
+#### Famous usecases to start with
+
+1. Housing price prediction problem
+2. Iris Dataset - identify the flower based on sepal length and sepal width.
+3. Try to apply reverse engineering on the usecases
+
+#### IDEs
+1. PyCharm
+2. Jupyter
+3. Spyder
+4. VS Code
+5. RStudio (for R programming)
+
+#### Web Scraping 
+1. Beautiful Soup 
+2. scrapy
+3. urllib
 
 #### how I would learn data science if I had to start again :
 
