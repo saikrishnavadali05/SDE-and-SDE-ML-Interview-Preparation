@@ -26,7 +26,7 @@
   * Data Wrangling
   * Exploratory Data Analysis
 11. Deployment
-  * AWS, Azure, Flask, Django
+  * AWS, Azure, Google Cloud Platform(GCP), Flask, Django 
 
 #### Famous usecases to start with
 
@@ -46,6 +46,11 @@
 2. scrapy
 3. urllib
 
+#### Programming Contests to participate
+1. Kaggle
+
+
+
 #### how I would learn data science if I had to start again :
 
 1.	Programming in either Python or R 
@@ -58,8 +63,8 @@
 4.	doing real-world projects is the most effective way to grasp this field 
 5.	You should learn just enough programming and statistics to explore your own projects 
 6.	knowledge through very introductory online courses
-a.	like the micro courses on Kaggle 
-b.	365 data science
+  a.	like the micro courses on Kaggle 
+  b.	365 data science
 7.	Kaggle is the best as they have large amounts of datasets and also has analysis for all the projects
 8.	Kaggle is a public forum for people to submit their analysis of shared data sets 
 9.	We can see the code of established data scientists
