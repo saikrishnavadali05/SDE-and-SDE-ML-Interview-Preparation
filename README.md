@@ -9,6 +9,7 @@
     * Clustering 
   * Reinforcement
   * Dimensionality Reduction
+  * Principle component analysis
 
 2.	Deep Learning
 3.	Data Mining
