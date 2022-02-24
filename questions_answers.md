@@ -23,3 +23,6 @@
   * What do you know about Qualcomm?
   * What are the various Qualcomm products?
   * 
+
+> I will update the sheet completely
+Please follow this repo to get updates as soon as I add my complete experience here
