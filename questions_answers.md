@@ -37,5 +37,5 @@
 
 
 
-> I will update the sheet completely
-Please follow this repo to get updates as soon as I add my complete experience here
+> I will update the sheet completely...
+Please watch this repo to get updates as soon as I keep adding my complete experience here
