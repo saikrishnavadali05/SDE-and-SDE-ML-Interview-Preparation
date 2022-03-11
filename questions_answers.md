@@ -22,7 +22,20 @@
   * Why do you want to join Qualcomm?
   * What do you know about Qualcomm?
   * What are the various Qualcomm products?
+  * Why would you like to shift so early to another company?
+  * What is the proof that you will not leave qualcomm early as soon as we hire you? Will you leave early?
+  * What is it that you would contribute to Qualcomm in the field of AI and ML?
+  * These fields are just buzz words. But what is it that people will get by working in these fields?
+  * These fields are not contributing much to technology and society? Don't you think so?
+
+
+> Round 4 (40min) 1 interviewer (Teammate/Colleague at Qualcomm):
+  * How comfortable are you with python (can you rate on a scale of 1 to 10)?
+  * How comfortable are you with image processing?
+  * Description about the complete M.Tech. Project
   * 
+
+
 
 > I will update the sheet completely
 Please follow this repo to get updates as soon as I add my complete experience here
