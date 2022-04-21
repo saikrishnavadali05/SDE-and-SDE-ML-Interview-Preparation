@@ -10,4 +10,5 @@
 
 > Must know concepts for System Design Questions
 1. CAP Theory -> Consistency - Availability - Partition Tolerance
+   * Difference between SQL and NoSQL Databases (Which Database chooses what? over the above 3 (CAP))?
 2. Vertical Scaling (Increasing System Resources like Memory RAM, etc) or Horizontal Scaling (Increasing Number of Hosts - Making Distributed System)
