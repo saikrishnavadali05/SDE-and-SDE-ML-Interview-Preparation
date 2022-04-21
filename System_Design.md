@@ -8,4 +8,6 @@
 * C - Clear and Organized Thinking
 * D - Drive Discussions (80 myself - 20 interviewr should speak Rule)
 
-### CAP Theory -> Consistency - Availability - Partition Tolerance
+> Must know concepts for System Design Questions
+1. CAP Theory -> Consistency - Availability - Partition Tolerance
+2. Vertical Scaling (Increasing System Resources like Memory RAM, etc) or Horizontal Scaling (Increasing Number of Hosts - Making Distributed System)
