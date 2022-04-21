@@ -42,4 +42,4 @@
 26. Virtual Machines and Containers
 27. Publisher Subscriber or Queue
 28. Map Reduce
-29. Multi threading, concurrency, locks and synchronization, CAS.
+29. Multi threading, concurrency, locks and synchronization, CAS (Compare and Swap) 
