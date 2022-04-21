@@ -8,6 +8,17 @@
 * C - Clear and Organized Thinking
 * D - Drive Discussions (80 myself - 20 interviewr should speak Rule)
 
+> Things to consider
+1. Features
+2. API
+3. Availability
+4. Latency
+5. Scalability
+6. Durability
+7. Class Diagram
+8. Security and Privacy
+9. Cost-effective
+
 > Must know concepts for System Design Questions
 1. CAP Theory -> Consistency - Availability - Partition Tolerance
    * Difference between SQL and NoSQL Databases (Which Database chooses what? over the above 3 (CAP))?
