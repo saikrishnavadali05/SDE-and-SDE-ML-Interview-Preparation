@@ -27,4 +27,19 @@
 11. CPU, Memory, Harddrive, Network Bandwidth
 12. Random vs Sequential Read/Write on Disk
 13. Http / Https vs WebSockets
-14. 
+14. TCP / IP Model
+15. IPV4 vs IPV6
+16. TCP vs UDP
+17. DNS Look up
+18. Https and TLS
+19. Public Key Infrastructure & Certificate Authority
+20. Symmetric vs Asymmetric Key
+21. Load Balancer - L4 vs L7
+22. CDNs and Edge
+23. Bloom Filters and Count Min Sketch
+24. Paxos - Consensus over Distributed hosts, Leader Election
+25. Design Patterns and Object Oriented Design
+26. Virtual Machines and Containers
+27. Publisher Subscriber or Queue
+28. Map Reduce
+29. Multi threading, concurrency, locks and synchronization, CAS.
