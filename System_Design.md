@@ -1,6 +1,6 @@
-### Tushar Roy
+### Tushar Roy (System Design)
 
-### Video : https://www.youtube.com/watch?v=UzLMhqg3_Wc
+### Video 1 : https://www.youtube.com/watch?v=UzLMhqg3_Wc
 
 > ABCD of System Design
 * A - Always ask good questions
