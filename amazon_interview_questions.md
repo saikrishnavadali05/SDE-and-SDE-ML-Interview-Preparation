@@ -1,3 +1,6 @@
+### Source : https://faun.pub/amazon-virtual-coding-interview-preparations-ed3e32166f96
+
+
 ## This is based on the 14 leadership principles that drive Amazon, they include;
 Customer Obsession  
 Ownership  
