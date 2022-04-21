@@ -8,3 +8,4 @@
 * C - Clear and Organized Thinking
 * D - Drive Discussions (80 myself - 20 interviewr should speak Rule)
 
+### CAP Theory -> Consistency - Availability - Partition Tolerance
