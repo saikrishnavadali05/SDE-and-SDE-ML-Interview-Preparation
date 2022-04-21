@@ -43,3 +43,19 @@
 27. Publisher Subscriber or Queue
 28. Map Reduce
 29. Multi threading, concurrency, locks and synchronization, CAS (Compare and Swap) 
+
+> Some of the Tools that have implemented the above concepts
+
+1. Cassandra - 22:50 
+2. MongoDB/Couchbase - 23:22 
+3. Mysql - 22:36 
+4. Memcached - 23:52
+5. Redis - 23:52 
+6. Zookeeper - 24:30 
+7. Kafka - 25:00 
+8. NGINX - 25:17 
+9. HAProxy -  25:17 
+10. Solr, Elastic search - 25:32 
+11. Amazon S3 - 25:45 
+12. Docker, Kubernetes, Mesos - 26:00 
+13. Hadoop/Spark and HDFS - 26:17
