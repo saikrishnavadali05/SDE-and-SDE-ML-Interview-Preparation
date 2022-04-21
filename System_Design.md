@@ -1,4 +1,4 @@
-### Tushar Roy (System Design)
+### Tushar Roy (Introduction to System Design)
 
 ### Video 1 : https://www.youtube.com/watch?v=UzLMhqg3_Wc
 
