@@ -1,5 +1,10 @@
 # How to become a Data Scientist?
 
+> I realized that attempting the same problem multiple times is vital to preparation. 
+> It is not an exercise in coding but an exercise in mental visualization. 
+> Solving them again in regular intervals makes you familiar with the data structures and helps to visualize them better. 
+> Once you get comfortable with visualizing them you will be able to manipulate them.
+
 #### Data Science Core Subjects 
 1.	Machine Learning
   * Supervised
