@@ -95,3 +95,4 @@ https://en.wikipedia.org/wiki/Transpo...
 5. **WebSocket** - is a bidirectional communication protocol that can send the data from the client to the server or from the server to the client by reusing the established connection channel. The connection is kept alive until terminated by either the client or the server.
 6. **HTTP** - it is unidirectional (request -> response type). Server cannot initiate a communication by itself. In our scenario it is not helpful
 7. 3 users, 3 servers, load balancer, various tables within the database.
+8. **Blob Storage** - Blob storage enables companies to keep large amounts of data secured and stored within a Microsoft Azure storage account. Blob storage is a convenient, cost-effective and highly scalable cloud-based method of object storage. **BLOB - Binary Large Object**
