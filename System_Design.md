@@ -94,4 +94,4 @@ https://en.wikipedia.org/wiki/Transpo...
 4. **Redis DB (For Distributed Cache)** - What is Redis database? What is Redis? Redis, which stands for Remote Dictionary Server, is a fast, open source, in-memory, key-value data store. Redis is an open source (BSD licensed), in-memory data structure store used as a database, cache, message broker, and streaming engine. Redis provides data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes, and streams.
 5. **WebSocket** - is a bidirectional communication protocol that can send the data from the client to the server or from the server to the client by reusing the established connection channel. The connection is kept alive until terminated by either the client or the server.
 6. **HTTP** - it is unidirectional (request -> response type). Server cannot initiate a communication by itself. In our scenario it is not helpful
-7. 
+7. 3 users, 3 servers, load balancer, various tables within the database.
