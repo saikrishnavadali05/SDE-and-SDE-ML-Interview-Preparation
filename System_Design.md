@@ -87,3 +87,7 @@ https://en.wikipedia.org/wiki/Transpo...
 ### Video 3
 ### Design messaging/chat service like Facebook Messenger or Whatsapp
 ### Link : https://www.youtube.com/watch?v=zKPNUMkwOJE&list=PLrmLmBdmIlps7GJJWW9I7N0P0rB0C3eY2&index=3
+
+1. **Facebook** - Text messages within the chat are not encrypted
+2. **Whatsapp / Signal** - Text messages within the chat are encrypted. (Even company cannot read it).
+3. **Cassandra DB** - Cassandra is a free and open-source, distributed, wide-column store, NoSQL database management system designed to handle large amounts of data across many commodity servers, providing high availability with no single point of failure.
