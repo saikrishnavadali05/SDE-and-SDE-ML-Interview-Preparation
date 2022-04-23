@@ -4,3 +4,4 @@
 2. why doesn't structure fall under oop category?
 3. What is a dangling pointer?
 4. What no pointers in Java and Python?
+5. Advantages, Drawbacks, Time and Space complexities of SLL?
