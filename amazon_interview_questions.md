@@ -70,3 +70,4 @@ Leaders focus on the key inputs for their business and deliver them with the rig
 > customer obsession rather than competitor focus, passion for invention, commitment to operational excellence, and long-term thinking. Amazon strives to be Earth’s most customer-centric company, Earth’s best employer, and Earth’s safest place to work. Customer reviews, 1-Click shopping, personalized recommendations, Prime, Fulfillment by Amazon, AWS, Kindle Direct Publishing, Kindle, Career Choice, Fire tablets, Fire TV, Amazon Echo, Alexa, Just Walk Out technology, Amazon Studios, and The Climate Pledge are some of the things pioneered by Amazon.
 
 > https://www.aboutamazon.com/about-us/leadership-principles
+> https://assets.aboutamazon.com/d4/9b/6d5662ec4a75961ae78c473e7d03/amazon-leadership-principles-070621-us.pdf
