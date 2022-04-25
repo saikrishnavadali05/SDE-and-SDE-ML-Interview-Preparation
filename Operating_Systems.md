@@ -7,7 +7,8 @@
 5. Is TLB same as a cache? What is the difference between TLB and a Cache?
 6. What is TLB Hit and TLB Miss?
 7. Difference between Physical Address and Logical Address?
-8. Where does Page Table Exist?
-9. What is the difference between a frame and a page?
-10. What is a page table?
-11. What is Page Fault?
+8. What is Effective Memory Access Time (EMAT)?
+9. Where does Page Table Exist?
+10. What is the difference between a frame and a page?
+11. What is a page table?
+12. What is Page Fault?
