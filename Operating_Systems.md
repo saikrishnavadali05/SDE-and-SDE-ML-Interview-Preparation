@@ -16,3 +16,4 @@
 13. What is Page Fault?
 14. What is Page Fault Service Time?
 15. What is the difference between Virtual Memory and Physical Memory?
+16. What is the difference between Hit Ratio and Miss Ratio? Which should be high and which should be low?
