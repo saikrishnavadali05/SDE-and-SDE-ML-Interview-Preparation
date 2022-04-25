@@ -84,6 +84,14 @@ https://en.wikipedia.org/wiki/HTTP/2
 https://en.wikipedia.org/wiki/Transpo...
 
 
+### Video 2
+### System Design : Design a service like TinyUrl
+### https://www.youtube.com/watch?v=fMZMm_0ZhK4
+
+
+
+
+
 ### Video 3
 ### Design messaging/chat service like Facebook Messenger or Whatsapp
 ### Link : https://www.youtube.com/watch?v=zKPNUMkwOJE&list=PLrmLmBdmIlps7GJJWW9I7N0P0rB0C3eY2&index=3
