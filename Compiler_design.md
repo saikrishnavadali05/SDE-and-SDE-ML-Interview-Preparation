@@ -4,3 +4,4 @@
 3. What is the meaning of recursive and descent in recursive descent parser?
 4. What is Gradient Descent?
 5. Difference between recursive descent and Gradient Descent?
+6. What is an ambiguous grammar?
