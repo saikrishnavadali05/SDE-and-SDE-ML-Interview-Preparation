@@ -15,3 +15,4 @@
 12. What is a page table?
 13. What is Page Fault?
 14. What is Page Fault Service Time?
+15. What is the difference between Virtual Memory and Physical Memory?
