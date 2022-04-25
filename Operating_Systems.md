@@ -12,3 +12,4 @@
 10. What is the difference between a frame and a page?
 11. What is a page table?
 12. What is Page Fault?
+13. What is Page Fault Service Time?
