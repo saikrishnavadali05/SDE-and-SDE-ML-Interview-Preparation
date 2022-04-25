@@ -6,3 +6,4 @@
 4. What is a Translation Look Aside Buffer (TLB)?
 5. What is the difference between a frame and a page?
 6. What is a page table?
+7. What is Page Fault?
