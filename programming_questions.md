@@ -7,3 +7,4 @@
 5. Advantages, Drawbacks, Time and Space complexities of SLL?
 6. Backus–Naur form (/ˌbækəs ˈnaʊər/) or Backus normal form (BNF)
 7. 6 Normal Forms within Databases (1 to 5 NF + Boycee Codd NF (BCNF))
+8. What are namespaces in C++? What is the meaning of the line **using namespace std**?
