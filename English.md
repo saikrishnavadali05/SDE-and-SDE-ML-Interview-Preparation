@@ -19,4 +19,4 @@
 3. Future Perfect
 4. Future Perfect Continuous
 
-! [tenses_content](https://github.com/saikrishnavadali05/SDE-and-SDE-ML-Interview-Preparation/blob/master/english/tenses_content_visible.png)
+![tenses content visible image](https://github.com/saikrishnavadali05/SDE-and-SDE-ML-Interview-Preparation/blob/master/english/tenses_content_visible.png)
