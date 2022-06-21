@@ -1,3 +1,6 @@
+// https://www.geeksforgeeks.org/abstract-data-types/
+// First study about what is an abstract data type
+
 #include<iostream>
 // What is an ADT?
 
