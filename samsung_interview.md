@@ -57,3 +57,8 @@ and computer vision
  Programming skills of Python, C/C++
  Preferred experience with UI tools for NN visualization and
 performance estimation
+
+
+## Useful Links for preparation:
+
+https://www.youtube.com/live/lHuLnLQbYAo?feature=share
