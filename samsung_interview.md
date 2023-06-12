@@ -32,3 +32,28 @@ Supreeth
 Associate, HR Management
 Samsung Semiconductors India Research
 9964112288
+
+
+## Machine Learning Role
+
+NPU SDK engineer
+Job description
+Samsung’s NPU (Neural Processing Unit) software team provides an exciting opportunity for software engineers to be at the heart of enabling, optimizing, and deploying deep learning algorithms on Samsung’s Neural Processing architecture. Exciting new applications in multiple verticals are expected to exploit the power of neural networks and change many aspects of daily lives.
+
+Algorithm development for Samsung&amp;#39;s NPU SDK, including the
+
+following:
+ Analysis of Neural Network (NN) models 
+ Compression (Quantization and etc.) of NN models 
+ Modification and optimization of NN models to enable them on
+Samsung&#39;s Exynos NN framework(NPU, DSP, GPU, CPU).
+ Performance estimation of NN models on Samsung&#39;s Exynos NN
+framework
+ Post-quantisation Accuracy analysis and solutions 
+Qualifications
+ Experience with statistical methodologies, image processing,
+and computer vision
+ Strong knowledge with deep learning and neural networks 
+ Programming skills of Python, C/C++
+ Preferred experience with UI tools for NN visualization and
+performance estimation
