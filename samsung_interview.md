@@ -61,4 +61,5 @@ performance estimation
 
 ## Useful Links for preparation:
 
+1. What Is NPU | Neural Processing Unit Explained | What Is Neural Processing Unit | Intellipaat
 https://www.youtube.com/live/lHuLnLQbYAo?feature=share
