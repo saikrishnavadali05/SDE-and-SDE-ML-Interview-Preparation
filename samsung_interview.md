@@ -63,3 +63,11 @@ performance estimation
 
 1. What Is NPU | Neural Processing Unit Explained | What Is Neural Processing Unit | Intellipaat
 https://www.youtube.com/live/lHuLnLQbYAo?feature=share
+
+## Actual Interview Questions
+
+1. What is an inference in the deep learning models?
+2. What is a convolution kernel? how do you apply convolution for 3x128x128 image?
+3. Problem Solving 1 : Given an array of numbers, find all the permutations of the numbers arrangment within that array
+4. Problem Solving 2 : Given an array if numbers, find the sum of two elements which should be equal to a value X
+5. What optimizations can we in a deep learning model?
