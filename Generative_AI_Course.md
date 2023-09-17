@@ -73,9 +73,67 @@ With the continuous progress in AI, the possibilities for generative models are 
 - **Personal AI Creativity Assistants**: Imagine having a personal AI that sketches, writes, or composes based on your initial ideas.
 - **Ethical Regulations**: As the power of generative AI grows, so will the need for guidelines and regulations to ensure its responsible use.
 
+---
 
 ## <a name="fundamentals-of-deep-learning"></a>**Fundamentals of Deep Learning**
-... (content for "Fundamentals of Deep Learning")
+
+### **What is Deep Learning?**
+
+Deep Learning is a subfield of machine learning that focuses on algorithms inspired by the structure and function of the brain called artificial neural networks.
+
+- **Evolution from Machine Learning**: Unlike traditional machine learning algorithms, deep learning algorithms automatically learn feature representations from data, which was manually done in traditional machine learning.
+
+### **Neural Networks: The Building Blocks**
+
+Artificial neural networks are computing systems inspired by the brain's neural networks. They consist of layers of interconnected nodes or "neurons."
+
+- **Anatomy of a Neuron**: Each neuron takes several inputs, processes them, and produces an output.
+- **Layers**: Neural networks are composed of an input layer, one or multiple hidden layers, and an output layer.
+
+### **Feedforward and Backpropagation**
+
+The two primary processes in neural networks are feedforward and backpropagation.
+
+- **Feedforward**: Process of passing the data through the layers from input to output.
+- **Backpropagation**: Mechanism used to adjust the network's weights based on the error of the output.
+
+### **Activation Functions**
+
+These functions decide whether a neuron should be activated or not.
+
+- **Types and Uses**: Sigmoid, ReLU, Tanh, Leaky ReLU, etc.
+- **Importance**: Introducing non-linearity into the model.
+
+### **Optimization Algorithms**
+
+After computing the loss or error, optimization algorithms adjust the weights to minimize this error.
+
+- **Stochastic Gradient Descent (SGD)**: Traditional method.
+- **Momentum, RMSprop, Adam**: Variants and improvements over traditional SGD.
+
+### **Loss Functions**
+
+A measure of how well the network's output matches the expected output.
+
+- **Mean Squared Error (MSE)**: Commonly used for regression problems.
+- **Cross-Entropy**: Used for classification problems.
+
+### **Regularization**
+
+Techniques to prevent overfitting.
+
+- **Dropout**: Randomly drops neurons during training.
+- **L1 & L2 Regularization**: Adds penalty to the loss function based on the magnitude of weights.
+
+### **Deep Learning Architectures**
+
+Over the years, various architectures have been developed, each suited for specific types of tasks.
+
+- **Convolutional Neural Networks (CNNs)**: Best for image-related tasks.
+- **Recurrent Neural Networks (RNNs)**: Designed for sequential data like text or time series.
+- **Transformers**: Latest and state-of-the-art, particularly in NLP.
+
+
 
 ## <a name="autoencoders"></a>**Autoencoders**
 ... (content for "Autoencoders")
