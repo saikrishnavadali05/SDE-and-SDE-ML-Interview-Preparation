@@ -8,7 +8,7 @@ Absolutely. Here's how the complete Table of Contents would look with hyperlinks
 
 ## **Table of Contents**
 1. [Introduction to Generative AI](#introduction-to-generative-ai)
-2. [Fundamentals of Deep Learning](#fundamentals-of-deep-learning)
+2. [Fundamentals of Deep Learning](fundamentals-of-deep-learning)
 3. [Autoencoders](#autoencoders)
 4. [Generative Adversarial Networks (GANs)](#gan)
 5. [Variational Autoencoders (VAEs)](#vae)
