@@ -133,7 +133,7 @@ Over the years, various architectures have been developed, each suited for speci
 - **Recurrent Neural Networks (RNNs)**: Designed for sequential data like text or time series.
 - **Transformers**: Latest and state-of-the-art, particularly in NLP.
 
-
+---
 
 ## <a name="autoencoders"></a>**Autoencoders**
 ### **What are Autoencoders?**
